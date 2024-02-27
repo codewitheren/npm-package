@@ -1,0 +1,20 @@
+{
+  "name": "getir-math",
+  "version": "0.0.1",
+  "description": "Basic math operations",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "math",
+    "getir"
+  ],
+  "author": "Eren Erdoğan",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
